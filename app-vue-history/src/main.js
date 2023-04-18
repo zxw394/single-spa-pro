@@ -7,7 +7,6 @@ import './assets/common.css';
 const appOptions = {
   render: (h) => h(App),
   store,
-  isKeepAlive : true
 }
 
 Vue.config.productionTip = false;
