@@ -1,0 +1,5 @@
+app-vue-hash/dist-spa/
+app-vue-history/dist-spa/
+node_modules/
+.idea
+.vscode
